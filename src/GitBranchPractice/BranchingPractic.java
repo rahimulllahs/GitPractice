@@ -15,4 +15,6 @@ public class BranchingPractic {
    public void remoteRepo () {
 	   System.out.println(" the problem has been fixed");
    }
+	public void remoteRepoTwo () {
+	   System.out.println(" the problem has been fixed send it back to local repo");
 }
