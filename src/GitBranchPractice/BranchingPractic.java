@@ -11,4 +11,8 @@ public class BranchingPractic {
 	   
 	   System.out.print("hope this time works");
    }
+   
+   public void remoteRepo () {
+	   System.out.println(" the problem has been fixed");
+   }
 }
