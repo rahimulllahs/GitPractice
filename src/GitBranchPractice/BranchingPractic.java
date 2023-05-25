@@ -18,3 +18,6 @@ public class BranchingPractic {
 	public void remoteRepoTwo () {
 	   System.out.println(" the problem has been fixed send it back to local repo");
 }
+	public void remoteRepoThree () {
+	   System.out.println(" This is pull practice");
+	}
